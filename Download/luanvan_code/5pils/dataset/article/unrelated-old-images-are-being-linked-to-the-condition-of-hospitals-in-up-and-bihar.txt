@@ -1,0 +1,16 @@
+URL: https://factly.in/unrelated-old-images-are-being-linked-to-the-condition-of-hospitals-in-up-and-bihar
+Unrelated old images are being linked to the condition of hospitals in UP and Bihar - FACTLY
+
+Publication Date:2020-08-07T10:21:08+00:00
+A post with a photo describing the condition of hospitals in Bihar and Uttar Pradesh is doing rounds on social media. Through this article lets fact-check the claim made in the post.
+Claim: Recent pictures showing the bad conditions of the hospitals in Bihar and Uttar Pradesh.
+Fact: The part of the image claiming to be that of Uttar Pradesh is actually an image of a ward in Osmania Hospital, Hyderabad. The part of the image claiming to be that of Bihar from a Bihar Hospital but clicked in 2019. Hence the claim made in the post is FALSE.
+When we cropped the image in the post and ran a reverse image search for only the part of the image claiming to be that of Bihar, we found the same image in a news article which reported about the rainfall in Bihar and the article dates back to 29 Sep 2019, the article describes the image as “A patient is shifted from Nalanda Medical College and Hospital in Patna”. With  this, we can say that this image is related to Bihar.  However, it has nothing to do with the recent floods in Bihar.
+A similar reverse image search of the second part of the image claiming to be that of Uttar Pradesh led us to a news article dated 15 July 2020, which published a similar image. The description below the images reads “A flooded ward inside Hyderabad’s Osmania Hospital”. Also, NDTV published a video in which the same hospital ward can be seen. With this, we can conclude that the hospital ward shown in the image is from Osmania Hospital, Hyderabad and not Uttar Pradesh.
+To sum it up, an old image of a Bihar hospital and an image of a ward in Osmania hospital, Hyderabad is being falsely shared as the present condition in Bihar and UP hospitals.
+Did you watch our new video?
+
+Comments are closed.
+
+Image URLs :
+https://factly.in/wp-content/uploads//2020/08/Bihar-UP-Hospitals-FB-Post.jpg

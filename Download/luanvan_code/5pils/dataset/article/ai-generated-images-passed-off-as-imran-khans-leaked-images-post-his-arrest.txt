@@ -1,0 +1,21 @@
+URL: https://factly.in/ai-generated-images-passed-off-as-imran-khans-leaked-images-post-his-arrest
+AI-generated images passed off as Imran Khan's leaked images post his arrest - FACTLY
+
+Publication Date:2023-05-11T11:48:40+00:00
+A video on social media contains two photographs of the former PM of Pakistan, Imran Khan, with a post description that reads ‘ Khan right now, leaked photographs.‘ According to the post, which is being shared in the context of the former cricket star’s arrest (here and here) by Pakistan’s NAB (National Accountability Bureau), these are the leaked photos of Khan’s after the arrest. Let’s verify the authenticity of these photos through this article.
+Claim: Leaked photos of Imran Khan post his arrest.
+Fact: These two photos are created using an AI tool. None of the media reports after Khan’s arrest claimed these images as the ones shot post his arrest. In the first photo reported by media outlets after his arrest, he is seen wearing a dress similar to the one he wore during his arrest and not a white dress as seen in the viral photos. Hence the claim made in the post is False.
+On first look, it can be observed that the photos in the viral video carry a watermark that reads ‘ exclusive by midjourney,’ an AI tool that generates images based on text prompts. This is validated by a report by India Today from 10 May 2023 which contains a cropped version of one of the viral photos. The news report states that the AI tool midjourney generated it.
+To know more about the photos, we performed a reverse image search using Google and found a post by a Facebook user named Feroz Waxir that contains the viral photos. These photos also carry the same watermark indication that they are AI-generated.
+A keyword search on the internet revealed that Imran Khan was presented in a court in Islamabad which was the first time he was pictured after his arrest. Pakistani media outlet Geo News obtained this photo which can be seen below.
+Khan ‘can be seen sitting on a chair in Islamabad’s Police Lines where a temporary accountability court has been setup for his case,’ Geo News reported. He is seen wearing a dress similar to the one that he was wearing during his arrest. A few more news reports which contain the same image can be seen here and here.
+With this information, it is clear that the images seen in the viral post are not the ones filmed after Khan’s arrest. A few abnormalities in these images are common (here and here) with AI-generated images, and reveal that they are unreal. AI-generated images of humans sometimes have an incorrect number of fingers, toes and, in some cases, have body parts with disproportionate sizes, which is commonly noticed in AI images.
+In the second photo that appears in the viral video, the left foot of Mr Khan has seven toes which he doesn’t have in real life.
+In the following photo, you can see that he has just five toes on his left leg.
+In the first photo, you can see that there is no gap between his hands which he is holding together.
+To sum up, the photos in the post are not the images of Pakistan’s former PM Imran Khan that were leaked after his arrest.
+
+Comments are closed.
+
+Image URLs :
+https://factly.in/wp-content/uploads//2023/05/Imran-Khans-AI-Generated-Pic-Claim-.jpg

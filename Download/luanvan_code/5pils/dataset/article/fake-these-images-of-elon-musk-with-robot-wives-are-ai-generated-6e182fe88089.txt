@@ -1,0 +1,26 @@
+URL: https://pesacheck.org/fake-these-images-of-elon-musk-with-robot-wives-are-ai-generated-6e182fe88089
+FAKE: These images of Elon Musk with ‘robot wives’ are AI-generated | by PesaCheck | PesaCheck
+
+Publication Date:2023-05-30T15:24:19.498Z
+
+Listen
+Share
+This Instagram post claiming that billionaire Elon Musk and his company are in the final stages of making a robot wife is FAKE.
+The company’s anticipated availability of the robot wives is September 2023, according to the post, with plans to extend their distribution to Africa by November 2023.
+The publication has images depicting the Tesla CEO embracing and kissing humanoid female robots. Seemingly, this serves as evidence to support the assertion that the entrepreneur’s unspecified company is in the advanced stages of developing a robot wife.
+The post claims that the purported robot wife will utilise batteries designed to align with the menstrual cycle, adding that the cells will undergo a three-day charging process and provide a month-long operational period.
+Engaging in intimate activities with the robot spouse will, according to the publication, require authentication measures such as a password, pattern, or fingerprint, to prevent unauthorised tampering.
+PesaCheck performed a Google reverse image search on the provided images, specifically here, here, and here. The results show that the photos were initially shared online by artist Gurrero Art, who is linked with creating a viral image featuring the Pope wearing a puffer jacket.
+Guerrero shares some of the images of Musk with the female humanoids on his Instagram page with the text, “original creator of “Elon introduces Electrical Side Piece”. He also incorporates the hashtag #AI; #aiart (artificial intelligence) to categorise them as AI-generated images.
+The artist also discloses in the post’s comments section that he used a paid version of Midjourney, a generative artificial intelligence software, to create the images of Musk.
+Notably, an innovation of this magnitude would undoubtedly garner significant media attention. However, it is worth mentioning that no credible media outlet has reported any news of the purported ‘robot wife,’ nor have any of Musk’s companies made official statements regarding such a development.
+The images surfaced following Musk’s 16 May 2023 presentation of a video demonstrating the capabilities of Tesla Bots, including stable walking, object manipulation, and object recognition. However, it is important to note that the robots depicted in the video are not the subject of the claim we are debunking.
+To determine if the images were generated using AI, we conducted a test by uploading them to Hugging Face, an AI image art detector. The results were that the first image had the highest percentage of artificial intelligence at 81 per cent.
+Further analysis indicated that the second and third images obtained nearly identical scores regarding artificial intelligence detection. According to the tool, the second image had a rating of 36 per cent, while the third image was rated 37 per cent.
+Besides the findings provided by the Hugging Face image AI detector, we observed certain visual anomalies in the photos. One notable anomaly pertains to the second image, where the robot depicted exhibits disproportionate fingers. Specifically, at least one finger appears smaller than the rest, which aligns with one of the distinctive characteristics often observed in AI-generated images.
+It is apparent in the third image that the female humanoid and Musk have their hands positioned peculiarly. The hands seem to hover slightly in the air without proper alignment.
+Notably, the robot’s hand does not appear to be accurately placed on Musk’s shoulder, and the Tesla CEO’s hand does not seem appropriately positioned on the female humanoid. These observations align with another characteristic often associated with AI-generated images.
+PesaCheck has looked into an Instagram post claiming that billionaire Elon Musk and his company are in the final stages of making a robot wife and finds it to be FAKE.
+
+Image URLs :
+https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iww1A4h3MEiBUYEsJvaUDw.png

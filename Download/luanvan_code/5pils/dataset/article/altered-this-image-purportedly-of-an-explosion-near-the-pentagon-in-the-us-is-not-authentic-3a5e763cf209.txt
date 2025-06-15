@@ -1,0 +1,27 @@
+URL: https://pesacheck.org/altered-this-image-purportedly-of-an-explosion-near-the-pentagon-in-the-us-is-not-authentic-3a5e763cf209
+ALTERED: This image, purportedly of an explosion near the Pentagon in the US, is not authentic | by PesaCheck | PesaCheck
+
+Publication Date:2023-05-26T08:02:48.246Z
+
+Listen
+Share
+This image, purportedly of an explosion at the Pentagon in the United States, has been ALTERED.
+The image depicts smoke billowing near a building in a compound. But the building looks undamaged.
+“⚡️BREAKING — EXPLOSION NEAR THE PENTAGON,” reads the text accompanying the image.
+The Pentagon is in Arlington County in Virginia, near Washington DC. It is a distinctive five-sided building that houses the US Department of Defense.
+On closer examination, the image in question, however, bears no resemblance to the actual Pentagon.
+We performed a keyword search on Google to verify the claim of an explosion at the Pentagon and found that multiple reputable organisations had debunked the news as fake and identified the image as having been manipulated using artificial intelligence.
+Besides, we found no mention of any explosion at the Pentagon upon reviewing the official website and social media accounts of the US Department of Defense.
+The Arlington County Fire Department (ACFD) also issued a statement clarifying that there was no explosion or imminent danger at the Pentagon.
+“@PFPAOfficial (Pentagon Force Protection Agency) and the ACFD (Arlington County Fire Department) are aware of a social media report circulating online about an explosion near the Pentagon. There is NO explosion or incident taking place at or near the Pentagon reservation, and there is no immediate danger or hazards to the public,” the ACFD tweeted.
+Our reverse image search established that there had been no online record of the image before 22 May 2023. The findings show that those who published the image that day were either spreading it with the claim that there was an explosion near the US Pentagon or debunking the image as manipulated using AI technology.
+PesaCheck also utilised two AI-based image analysis tools — FotoForensics and Forensically — to further examine the image in question. The results from FotoForensics were that the billow of smoke was added next to the building through digital manipulation.
+According to FotoForensics, edited images often exhibit colour variations, whereas authentic images tend to appear white. In the case of the image we are debunking, there were distinct areas of white, black, and red. The building, the surrounding bush, and the fence appeared white, an indication they were not digitally altered. However, the area depicting the smoke and the road appeared black and red, a manifestation of manipulation.
+Forensically corroborated the above results as the same image turned out to be cloned.
+The Forensically clone detector feature helps identify sections within an image that exhibit similarities, which can indicate potential tampering. These similar areas are marked with blue dots and connected by red lines. By applying this analysis to the image we are debunking, it was apparent that the region containing the billow of smoke has been copied.
+This finding strongly suggests that the smoke area is the manipulated portion of the image, further supporting our conclusion.
+News organisations also reported that the US stock market dipped after the altered image went viral.
+PesaCheck has looked into an image claiming to be of an explosion at the Pentagon, US, and found it to have been ALTERED.
+
+Image URLs :
+https://miro.medium.com/v2/resize:fit:640/format:webp/1*D25RgTKhZYMyrODsab5p9g.png

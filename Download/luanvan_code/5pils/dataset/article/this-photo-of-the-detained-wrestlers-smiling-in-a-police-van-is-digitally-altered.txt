@@ -1,0 +1,20 @@
+URL: https://factly.in/this-photo-of-the-detained-wrestlers-smiling-in-a-police-van-is-digitally-altered
+This photo of the detained wrestlers smiling in a police van is digitally altered. - FACTLY
+
+Publication Date:2023-05-30T10:53:33+00:00
+A photo circulating on social media shows Indian wrestlers, Vinesh and Sangeetha Phogat allegedly smiling after being detained (here and here) from their protest site at Jantar Mantar. This article aims to fact-check the claim surrounding this photo and reveal the truth.
+Claim: Photo of wrestlers smiling after being detained at a protest site in Jantar Mantar. 
+Fact: This photo has been digitally altered. The original photo does not depict the wrestlers smiling. Therefore, the claim made in the post is False.
+To investigate the authenticity of the viral photo, we conducted a reverse image search and discovered several similar posts (here and here) across social media platforms. Observations from users’ comments suggested that the photo had been digitally altered using the AI applications like ‘FaceApp’. We also came across a photo uploaded by journalist Mandeep Punia, where the wrestlers were not seen smiling.
+विनेश फोगाट को भी दिल्ली पुलिस ने हिरासत में ले लिया है pic.twitter.com/LzsC9vdxhZ
+In order to verify the claim of digital alteration, we downloaded the FaceApp application and applied its built-in smile filter. Our findings confirmed that the photo could indeed be manipulated using this app. Additionally, a notable observation is that the wrestlers in the viral photo exhibited a dimple on their right cheek, which contradicts their actual appearance in other verifiable photos available online.
+We ran this photo through FaceApp, and it produced similar results. Here’s a video of how to add smile to a photo using FaceApp.
+Moreover, Bajrang Punia, an Olympic gold medalist from India, took to Twitter to say that the image fake. He expressed intent to pursue legal action against individuals who shared the manipulated photo.
+IT Cell वाले ये झूठी तस्वीर फैला रहे हैं। हम ये साफ़ कर देते हैं की जो भी ये फ़र्ज़ी तस्वीर पोस्ट करेगा उसके ख़िलाफ़ शिकायत दर्ज की जाएगी। #WrestlersProtest pic.twitter.com/a0MngT1kUa
+It is worth noting that various other applications offer similar features, enabling the conversion of non-smiling faces to smiling ones. As a demonstration, we applied the same smile filter to a photo of Amitabh Bachchan, yielding similar results.
+To sum up, the viral photo depicting detained wrestlers smiling is digitally altered using an AI-based application.
+
+Comments are closed.
+
+Image URLs :
+https://factly.in/wp-content/uploads//2023/05/Wrestlers-Smiling-after-detention-01-975x1024.png
